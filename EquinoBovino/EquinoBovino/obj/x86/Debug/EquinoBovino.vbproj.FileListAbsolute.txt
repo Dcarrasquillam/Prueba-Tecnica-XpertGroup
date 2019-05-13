@@ -1,0 +1,8 @@
+D:\repositorios\XpertGroup\Prueba Tecnica\Prueba-Tecnica-XpertGroup\EquinoBovino\EquinoBovino\bin\Debug\EquinoBovino.exe
+D:\repositorios\XpertGroup\Prueba Tecnica\Prueba-Tecnica-XpertGroup\EquinoBovino\EquinoBovino\bin\Debug\EquinoBovino.pdb
+D:\repositorios\XpertGroup\Prueba Tecnica\Prueba-Tecnica-XpertGroup\EquinoBovino\EquinoBovino\bin\Debug\EquinoBovino.xml
+D:\repositorios\XpertGroup\Prueba Tecnica\Prueba-Tecnica-XpertGroup\EquinoBovino\EquinoBovino\obj\x86\Debug\EquinoBovino.Resources.resources
+D:\repositorios\XpertGroup\Prueba Tecnica\Prueba-Tecnica-XpertGroup\EquinoBovino\EquinoBovino\obj\x86\Debug\EquinoBovino.vbproj.GenerateResource.Cache
+D:\repositorios\XpertGroup\Prueba Tecnica\Prueba-Tecnica-XpertGroup\EquinoBovino\EquinoBovino\obj\x86\Debug\EquinoBovino.exe
+D:\repositorios\XpertGroup\Prueba Tecnica\Prueba-Tecnica-XpertGroup\EquinoBovino\EquinoBovino\obj\x86\Debug\EquinoBovino.xml
+D:\repositorios\XpertGroup\Prueba Tecnica\Prueba-Tecnica-XpertGroup\EquinoBovino\EquinoBovino\obj\x86\Debug\EquinoBovino.pdb
